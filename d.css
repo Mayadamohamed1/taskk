@@ -1,0 +1,84 @@
+.header{
+    background-color: rgb(204, 188, 162);
+    width: 100%;
+    height: 80px;
+    padding: 10px 0 0 20px;
+    font-size: 15px;
+
+}
+.body{
+    background-color: rgb(22, 18, 18);
+    width: 100%;
+    height: 500px;
+}
+ 
+.body .s{
+    width: 300px;
+    height: 400px;
+    display:inline-block ;
+    background-color: rgb(245, 234, 137);
+    margin: 30px 0px 33px 40px;
+    padding: 20px;
+}
+.s .img1 img {
+    width: 250px;
+    height: 250px;
+    border-radius: 50%;
+
+}
+.s .p{
+    text-align: center;
+    color: rgb(107, 175, 39);
+    font-size: 18px;
+}
+.s .img2 img {
+    width: 250px;
+    height: 250px;
+    border-radius: 50%;
+
+}
+.s .p{
+    text-align: center;
+    color: rgb(107, 175, 39);
+    font-size: 18px;
+}
+.s .img3 img {
+    width: 250px;
+    height: 250px;
+    border-radius: 50%;
+
+}
+.s .p{
+    text-align: center;
+    color: rgb(107, 175, 39);
+    font-size: 18px;
+}
+.s .img4 img {
+    width: 250px;
+    height: 250px;
+    border-radius: 50%;
+
+}
+.s .p{
+    text-align: center;
+    color: rgb(107, 175, 39);
+    font-size: 18px;
+}
+.background{
+    background-image: url(17.jpg);
+    width: 100%;
+    height: 40px;
+}
+.background h1{
+    color: rgb(235, 162, 26);
+    text-align: center;
+    font-size: 30px;
+}
+.footer {
+    background-color: black;
+    color: rgb(241, 231, 83);
+    font-size: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+    padding: 25px 35%;
+
+}
